@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rks274&label=Profile%20views&color=0e75b6&style=flat" alt="rks274" /> </p>
 
-- 🔭 I’m currently working on https://app.luminpdf.com/viewer/6693ede86f6c67270b9fc985
+- 🔭 I’m currently working on SkillTrack.
 - 🌱 I’m currently learning **React,Moongoose etc.**
 
 - 📫 How to reach me **211114274@stu.manit.ac.in**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/6693ebcbd4bbbef3652aac7a]
+- 📄 Know about my experiences https://app.luminpdf.com/viewer/6693ebcbd4bbbef3652aac7a
 
 - ⚡ Fun fact **I believe in HardWork.**
 
