@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **211114274@stu.manit.ac.in**
 
-- 📄 Know about my experiences https://app.luminpdf.com/viewer/6693ebcbd4bbbef3652aac7a
+- 📄 Know about my experiences https://app.luminpdf.com/viewer/6693f1ffd4bbbef3652ac831
 
 - ⚡ Fun fact **I believe in HardWork.**
 
