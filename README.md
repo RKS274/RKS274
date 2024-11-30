@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on SkillTrack.
 - 🌱 I’m currently learning **React,Moongoose etc.**
 
-- 📫 How to reach me **211114274@stu.manit.ac.in**
+- 📫 How to reach me **211114263@stu.manit.ac.in**
 
 - 📄 Know about my experiences https://app.luminpdf.com/viewer/6693f1ffd4bbbef3652ac831
 
